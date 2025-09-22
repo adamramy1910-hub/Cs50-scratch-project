@@ -16,7 +16,7 @@ The goal is to provide a simple "visual programming" environment inside Scratch 
 1. Download the file *project.sb3* from this repository.
 2. Go to [Scratch Online Editor](https://scratch.mit.edu/projects/editor/).
 3. From the top menu, click *File → Load from your computer*.
-4. Select *my project (1).sb3*.
+4. Select *my project (X).sb3*.
 5. Press the green flag inside Scratch to start.
 
 ## 🛠 Features
@@ -26,7 +26,7 @@ The goal is to provide a simple "visual programming" environment inside Scratch 
 - Character animations (move, glide, effects, sounds)
 
 ## 📂 Files
-- project (1).sb3 — the Scratch project file
+- project (X).sb3 — the Scratch project file
 - README.md — this file
 
 ---
