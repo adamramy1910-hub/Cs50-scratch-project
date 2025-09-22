@@ -13,7 +13,7 @@ You can:
 The goal is to provide a simple "visual programming" environment inside Scratch itself.
 
 ## 🚀 How to Run
-1. Download the file *project.sb3* from this repository.
+1. Download the file *project (X).sb3* from this repository.
 2. Go to [Scratch Online Editor](https://scratch.mit.edu/projects/editor/).
 3. From the top menu, click *File → Load from your computer*.
 4. Select *my project (X).sb3*.
